@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\beikongguocai\\workspace2\\MyToast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallpaper_tree_small.jpg",
+        "source": "C:\\Users\\beikongguocai\\workspace2\\MyToast\\app\\src\\main\\res\\drawable-hdpi\\wallpaper_tree_small.jpg"
+    },
+    {
+        "merged": "C:\\Users\\beikongguocai\\workspace2\\MyToast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallpaper_field_small.jpg",
+        "source": "C:\\Users\\beikongguocai\\workspace2\\MyToast\\app\\src\\main\\res\\drawable-hdpi\\wallpaper_field_small.jpg"
+    },
+    {
+        "merged": "C:\\Users\\beikongguocai\\workspace2\\MyToast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\beikongguocai\\workspace2\\MyToast\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

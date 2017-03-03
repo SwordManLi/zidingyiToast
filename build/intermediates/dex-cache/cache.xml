@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\beikongguocai\workspace2\MyToast\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d160c7f00610c547a0e1c691a998623bbca75577">
+        <dex dex="C:\Users\beikongguocai\workspace2\MyToast\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6b8762b8e679bf95ac2b7f3b945dca067bcf4754.jar" />
+    </item>
+    <item
+        jar="C:\Users\beikongguocai\workspace2\MyToast\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3dc4616f8e26f50b12abadc175293bbe85f8bad7">
+        <dex dex="C:\Users\beikongguocai\workspace2\MyToast\app\build\intermediates\pre-dexed\debug\instant-run_996e269ac7f5d21b0ce3086d32b097f213950430.jar" />
+    </item>
+
+</items>

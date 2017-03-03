@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\beikongguocai\\workspace2\\MyToast\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\beikongguocai\\workspace2\\MyToast\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\beikongguocai\\workspace2\\MyToast\\app\\build\\intermediates\\res\\merged\\debug\\layout\\userdefinedtoast.xml",
+        "source": "C:\\Users\\beikongguocai\\workspace2\\MyToast\\app\\src\\main\\res\\layout\\userdefinedtoast.xml"
+    }
+]
